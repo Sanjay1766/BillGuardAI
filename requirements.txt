@@ -1,0 +1,14 @@
+ultralytics
+opencv-python
+pytesseract
+easyocr
+transformers
+huggingface-hub
+torch
+numpy
+requests
+pillow
+PyQt5
+streamlit
+pandas
+plotly
